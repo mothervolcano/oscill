@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oscill/static/css/main.1c50b1f1.css",
+    "main.js": "/oscill/static/js/main.d839ac0d.js",
+    "static/js/787.b7e731df.chunk.js": "/oscill/static/js/787.b7e731df.chunk.js",
+    "index.html": "/oscill/index.html",
+    "main.1c50b1f1.css.map": "/oscill/static/css/main.1c50b1f1.css.map",
+    "main.d839ac0d.js.map": "/oscill/static/js/main.d839ac0d.js.map",
+    "787.b7e731df.chunk.js.map": "/oscill/static/js/787.b7e731df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c50b1f1.css",
+    "static/js/main.d839ac0d.js"
+  ]
+}
